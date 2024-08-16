@@ -9,11 +9,17 @@ Allows IRT to identify Threat Actors IP and User-agent for further mitigation an
 
 - Support:
 Chrome Version Impersonation? - Yes
+
 Proxy Support? - Yes
+
 Custom Corporate Email Format Support? - Yes
+
 Cloudflare Support? - Yes
+
 Cloudflare Turnstile Support? - No
+
 Custom User-agent Generation? - Yes
+
 Unique Email and Name Generation? - Yes
 
 - Two versions:
